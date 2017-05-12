@@ -1,0 +1,30 @@
+{
+	"from": {
+		"flag": "-f",
+		"params": "[from@email.com]",
+		"description": "spesifies the sender`s email\n"
+	},
+
+	"to": {
+		"flag": "-t",
+		"params": "[to@email.com] ...",
+		"description": "spesifies an array of recievers emails\n"
+	},
+
+	"message": {
+		"flag": "-m",
+		"params": "[message text]",
+		"description": "email body\n"
+	},
+
+	"send": {
+		"flag": "s",
+		"params": "",
+		"description": "send email to recievers and store it to database"
+	},
+
+	"help": {
+		"flag": "--help",
+		"description": "display this help and exit\n"
+	}
+}
