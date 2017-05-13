@@ -1,0 +1,28 @@
+{
+	"errors": [
+		{
+			"code": 0,
+			"message": ""
+		},
+
+		{
+			"code": 1,
+			"message": "clip: missing operand\n"
+		},
+
+		{
+			"code": 2,
+			"message": "clip: invalid option\n"
+		},
+
+		{
+			"code": 3,
+			"message": "clip: invalid email -- "
+		},
+
+		{
+			"code": 4,
+			"message": "clip: email not specified"
+		}
+	]
+}
