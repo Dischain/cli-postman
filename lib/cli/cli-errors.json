@@ -23,6 +23,11 @@
 		{
 			"code": 4,
 			"message": "clip: email not specified"
+		},
+
+		{
+			"code": 5,
+			"message": "clip: unknown command sequence"
 		}
 	]
 }
