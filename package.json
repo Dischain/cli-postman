@@ -1,0 +1,26 @@
+{
+  "name": "cli-postman",
+  "version": "1.0.0",
+  "description": "simple console mail sender",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dischain/cli-postman.git"
+  },
+  "keywords": [
+    "email",
+    "nodemailer"
+  ],
+  "author": "dischain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dischain/cli-postman/issues"
+  },
+  "homepage": "https://github.com/Dischain/cli-postman#readme",
+  "dependencies": {
+    "prompt-sync": "^4.1.5"
+  }
+}
