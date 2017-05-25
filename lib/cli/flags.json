@@ -11,12 +11,6 @@
         "description": "spesifies an array of recievers emails\n"
     },
 
-    "subject": {
-        "flag": "-j",
-        "params": "[subject]",
-        "description": "email subject\n"
-    },
-
     "message": {
         "flag": "-m",
         "params": "[message text]",
