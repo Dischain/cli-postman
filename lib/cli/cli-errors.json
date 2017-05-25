@@ -12,7 +12,7 @@
 
 		{
 			"code": 2,
-			"message": "clp: invalid option\n"
+			"message": "clp: invalid option -- "
 		},
 
 		{
