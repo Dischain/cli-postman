@@ -11,6 +11,12 @@
         "description": "spesifies an array of recievers emails\n"
     },
 
+    "subject": {
+        "flag": "-j",
+        "params": "[subject]",
+        "description": "email subject\n"
+    },
+
     "message": {
         "flag": "-m",
         "params": "[message text]",
@@ -21,6 +27,12 @@
         "flag": "-s",
         "params": "",
         "description": "send email to recievers and store it to database"
+    },
+
+    "retrieve": {
+        "flag": "-r",
+        "params": "[from] [to] [last]",
+        "description": "retrieves last sent emails from speciefeid sender to reciever"
     },
 
     "help": {
