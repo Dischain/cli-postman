@@ -28,6 +28,11 @@
 		{
 			"code": 5,
 			"message": "clp: unknown command sequence"
+		},
+
+		{
+			"code": 6,
+			"message": "clp: email successfully sent!"
 		}
 	]
 }
