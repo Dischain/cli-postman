@@ -52,7 +52,7 @@ This should print all sent emails.
 
 ## Dependencies
 
-[nodemailer](https://github.com/nodemailer/nodemailer) - sends emails
-[sqlite3](https://github.com/mapbox/node-sqlite3) - asynchronous sqlite bindings for Node.js.
-[cli-spinner](github.com/helloIAmPau/node-spinner) - simple and pretty cli spinner.
-[prompt-sync](github.com/0x00A/prompt-sync) -a sync prompt for Node.js.
+* [nodemailer](https://github.com/nodemailer/nodemailer) - sends emails
+* [sqlite3](https://github.com/mapbox/node-sqlite3) - asynchronous sqlite bindings for Node.js.
+* [cli-spinner](github.com/helloIAmPau/node-spinner) - simple and pretty cli spinner.
+* [prompt-sync](github.com/0x00A/prompt-sync) -a sync prompt for Node.js.
